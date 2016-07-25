@@ -12,7 +12,7 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
 
 This is a special module that extends ewd-xpress to create a federation platform for HTTP/REST services
 
-For more informaation on ewd-feder8:
+For more information on ewd-feder8:
 
 [http://gradvs1.mgateway.com/download/ewd-feder8.pdf](http://gradvs1.mgateway.com/download/ewd-feder8.pdf)
 
