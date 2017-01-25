@@ -1,7 +1,7 @@
 {
   "name": "ewd-feder8",
-  "version": "1.2.0",
-  "description": "ewd-xpress based module for federated HTTP/REST service",
+  "version": "2.1.0",
+  "description": "QEWD-based module for federated HTTP/REST service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,8 @@
   },
   "author": "Rob Tweed, M/Gateway Developments Ltd",
   "license": "Apache-2.0",
-  "peerDependencies": {
-    "ewd-xpress": "",
+  "dependencies": {
+    "qewd": "",
     "request": ""
   },
   "bugs": {

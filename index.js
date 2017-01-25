@@ -1,9 +1,9 @@
 /*!
 
  ----------------------------------------------------------------------------
- | ewd-feder8: ewd-xpress based module for federated HTTP/REST service      |
+ | ewd-feder8: QEWD-based module for federated HTTP/REST service            |
  |                                                                          |
- | Copyright (c) 2016 M/Gateway Developments Ltd,                           |
+ | Copyright (c) 2016-17 M/Gateway Developments Ltd,                        |
  | Reigate, Surrey UK.                                                      |
  | All rights reserved.                                                     |
  |                                                                          |

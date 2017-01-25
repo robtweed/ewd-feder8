@@ -1,4 +1,4 @@
-# ewd-feder8: ewd-xpress based module for federated HTTP/REST service
+# ewd-feder8: QEWD-based module for federated HTTP/REST service
  
 Rob Tweed <rtweed@mgateway.com>  
 24 February 2016, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
@@ -10,7 +10,7 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
 
 ## ewd-feder8
 
-This is a special module that extends ewd-xpress to create a federation platform for HTTP/REST services
+This is a special module that extends QEWD to create a federation platform for HTTP/REST services
 
 For more information on ewd-feder8:
 
@@ -24,9 +24,9 @@ For more information on ewd-feder8:
 
 ## License
 
- Copyright (c) 2016 M/Gateway Developments Ltd,                           
- Reigate, Surrey UK.                                                      
- All rights reserved.                                                     
+ Copyright (c) 2016-17 M/Gateway Developments Ltd,
+ Reigate, Surrey UK.
+ All rights reserved.
                                                                            
   http://www.mgateway.com                                                  
   Email: rtweed@mgateway.com                                               

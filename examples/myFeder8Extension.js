@@ -20,6 +20,11 @@ function load() {
     //console.log('*** response was ' + JSON.stringify(params.responseObj));
   });
 
+  this.on('feder8-combined-response', function(params) {
+    console.log('**** combined-response has been created');
+    console.log('*** params = ' + JSON.stringify(params));
+  });
+
 }
 
 module.exports = load;
